@@ -14,3 +14,4 @@ Technologies Used:
 - PHP: Backend scripting for dynamic content and server-side processing.
 - Bootstrap: Rapidly build responsive layouts and components.
 
+![Portfolio Sample](assets/imges/footware.jpg)
