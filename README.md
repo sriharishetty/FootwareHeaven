@@ -11,7 +11,6 @@ Product Catalog: Browse a wide selection of footwear products.
 Technologies Used:
 - HTML5 & CSS3: Structure and style the website for a visually appealing experience.
 - JavaScript (ES6+): Enhance interactivity and user experience.
-- PHP: Backend scripting for dynamic content and server-side processing.
 - Bootstrap: Rapidly build responsive layouts and components.
 
 ![Portfolio Sample](assets/images/footware.jpg)
